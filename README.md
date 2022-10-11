@@ -14,7 +14,7 @@
 
 # 5. 설치 및 사용법
 Python 3.8+
-'''
+```
 # 가상환경 구성
 $ python3 -m venv .venv
 
@@ -27,4 +27,4 @@ $ source .venv/Scripts/avtivate
 (.venv)$ python manage.py runserver
 
 127.0.0.1:8000 접속하여 웹페이지 확인
-'''
+```
