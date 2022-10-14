@@ -7,6 +7,7 @@
 * 황세진, hsj4436@gmail.com, 데이터 수집, 백엔드 담당
 
 # 3. 시스템 구성도
+![구성도 drawio](https://user-images.githubusercontent.com/38585901/195778906-fcf97dd9-a0f1-4838-a374-43a503fc3e62.png)
 
 
 # 4. 소개 및 시연 영상
