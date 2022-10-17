@@ -11,8 +11,8 @@
 
 
 # 4. 소개 및 시연 영상
-소개 및 시연 영상({url})  
-
+소개 및 시연 영상<br>
+[![소개 및 시연 영상](https://img.youtube.com/vi/mZ3iC1UK83M/0.jpg)](https://youtu.be/mZ3iC1UK83M)
 # 5. 설치 및 사용법
 Python 3.8+
 ```
